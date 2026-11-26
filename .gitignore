@@ -1,0 +1,11 @@
+data/
+models/
+runs/
+venv/
+__pycache__/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+.env
