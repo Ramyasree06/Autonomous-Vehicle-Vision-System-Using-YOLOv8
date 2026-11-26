@@ -30,3 +30,7 @@ Trained for 20 epochs. Final validation metrics:
 | Recall | 0.903 |
 | mAP@50 | 0.938 |
 | mAP@50-95 | 0.728 |
+
+![Training Results](assets/results.png)
+
+![Sample Detection](assets/sample_detection.jpg)
