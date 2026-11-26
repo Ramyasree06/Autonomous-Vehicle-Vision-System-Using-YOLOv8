@@ -8,7 +8,6 @@ Python, YOLOv8 (Ultralytics), OpenCV, Pandas
 ## Project Structure
 - `EDA.py` : exploratory data analysis
 - `scripts/train.py` : model training
-- `scripts/detect.py` : run detection
 
 ## Dataset
 Dataset is not included due to size.
