@@ -18,7 +18,6 @@ pip install -r requirements.txt
 
 ## Usage
 python scripts/train.py
-python scripts/detect.py
 
 ## Results
 Trained for 20 epochs. Final validation metrics:
